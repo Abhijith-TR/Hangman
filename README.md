@@ -44,15 +44,6 @@ INSTRUCTIONS WHILE THE PROGRAM IS RUNNING
 1. The program will start by showing you the length of the word to be guessed using blanks. After this you can simply enter one letter or one word
    at a time and continue playing the game. Once seven misses have been made, the game will end. Or if the word is guessed, the word will end. 
    Avoid entering special characters.
-   
-   e.g. WELCOME TO HANGMAN!
-	YOU CAN MISS SEVEN TIMES!
-	GUESS EITHER A LETTER AT A TIME OR A WORD!
-
-	Here is your word : _ _ _ _ _ _ _ 
-	The letters missed so far : 
-	The word misses so far : 
-	Pick a letter : 
 	
 2. The program will ask you whether you wish to continue playing the game. Press Y to get another word and continue playing. 
 	
